@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Guifelber
-- 👀 I’m interested in ... learn
+- 👀 I’m interested in ... learn codes
 - 🌱 I’m currently learning ... psicologia 
-- 💞️ I’m looking to collaborate on ... conhecer mulheres para me ajudar no meu estudo p/ faculdade 
-- 📫 How to reach me ... descubra?!
+- 💞️ I’m looking to collaborate on ... Help go we learn HTML and Css
+- 📫 How to reach me ... imbeverllhills
 - 😄 Pronouns: ... he 
 - ⚡ Fun fact: ... 
 
